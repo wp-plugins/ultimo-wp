@@ -15,13 +15,15 @@ Are you already tired of the way WordPress 3.8 looks?
 
 Did you wish to be able to change and personalize, and even whitelabel some of the WordPress signatures on the WP Dashboard?
 
-**Well, you can do all of that with Ultimo WP! **
+*Well, you can do all of that with Ultimo WP!*
 
 With Utimo WP Dashboard Theme you can:
 
 1. Personalize the entire look and feel of the WordPress dashboard, based on *8 beautifully designed presets* (and counting).
 1. *Personalize the login screen* of the WordPress dashboard.
 1. Whitelable some of the WordPress signatures, like the footer texts and adding your company logo to the dashboard and login page.
+
+[Check out my premium plugins!](http://codecanyon.net/user/732/portfolio?ref=732)
 
 == Installation ==
 
